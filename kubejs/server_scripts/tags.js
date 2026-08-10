@@ -47,6 +47,7 @@ ServerEvents.tags('item', allthemods => {
   allthemods.add('productivebees:flowers/burning', 'minecraft:magma_block')
   allthemods.add('productivebees:flowers/ferric_flowers', ['minecraft:iron_block', 'minecraft:iron_bars', 'minecraft:iron_door', 'minecraft:iron_trapdoor', 'minecraft:iron_ore', 'minecraft:deepslate_iron_ore', 'minecraft:raw_iron_block', 'minecraft:cauldron', 'minecraft:hopper', 'minecraft:anvil', 'minecraft:chipped_anvil', 'minecraft:damaged_anvil'])
   allthemods.add('productivebees:flowers/wither_flowers', 'minecraft:wither_rose')
+  allthemods.add('productivebees:flowers/lepidolite', ['gtceu:lepidolite_block', 'gtceu:raw_lepidolite_block', 'gtceu:lepidolite_ore', 'gtceu:deepslate_lepidolite_ore'])
   allthemods.add('productivebees:flowers/gilded_flowers', ['minecraft:gilded_blackstone', 'minecraft:gold_block', 'minecraft:light_weighted_pressure_plate', 'minecraft:gold_ore', 'minecraft:deepslate_gold_ore', 'minecraft:nether_gold_ore', 'minecraft:raw_gold_block'])
   allthemods.add('kubejs:bee/pepto_bismol/flowers', '#minecraft:flowers')
   allthemods.add('kubejs:bee/zombie/flowers', '#minecraft:flowers')
